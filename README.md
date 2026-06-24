@@ -4,9 +4,9 @@
 </p>
 
 <div align="center">
-  <img width="49.7%" height="100%" src="https://github-readme-streak-stats.herokuapp.com/?user=jeezusplays&theme=github_dark&hide_border=true" alt="GitHub Streak">
+  <img width="49.7%" height="100%" src="https://github-readme-streak-stats.herokuapp.com/?user=joeyt4n&theme=github_dark&hide_border=true" alt="GitHub Streak">
 
-  <img width="49.7%" height="100%" src="https://github-readme-stats-jeezusplays.vercel.app//api/?username=jeezusplays&count_private=true&theme=github_dark&show_icons=true&hide_border=true" alt="GitHub Statistics">
+  <img width="49.7%" height="100%" src="https://github-readme-stats-joeyt4n.vercel.app//api/?username=joeyt4n&count_private=true&theme=github_dark&show_icons=true&hide_border=true" alt="GitHub Statistics">
 </div>
 
 ## <picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 20px></picture> About Me
@@ -124,11 +124,11 @@
 
 <h3 align="left">📚 My Noteworthy Projects</h3>
 
-<a href="https://github.com/jeezusplays/is460-g2">
+<a href="https://github.com/joeyt4n/is460-g2">
   <img align="center" src="https://github-readme-stats-beta-brown.vercel.app/api/pin/?username=soonann&repo=noise-solulu&theme=github_dark" />
 </a>
-<a href="https://github.com/jeezusplays/IS212-G6T6">
-  <img align="center" src="https://github-readme-stats-beta-brown.vercel.app/api/pin/?username=jeezusplays&repo=IS212-G6T6&theme=github_dark" />
+<a href="https://github.com/joeyt4n/IS212-G6T6">
+  <img align="center" src="https://github-readme-stats-beta-brown.vercel.app/api/pin/?username=joeyt4n&repo=IS212-G6T6&theme=github_dark" />
 </a>
 
 
@@ -136,7 +136,7 @@
 <br>
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/jeezusplays/jeezusplays/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/jeezusplays/jeezusplays/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/jeezusplays/jeezusplays/output/github-contribution-grid-snake.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/joeyt4n/joeyt4n/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/joeyt4n/joeyt4n/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/joeyt4n/joeyt4n/output/github-contribution-grid-snake.svg">
 </picture>
