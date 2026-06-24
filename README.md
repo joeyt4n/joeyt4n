@@ -1,18 +1,16 @@
 <h1 align="center"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"> Hi , I'm Joey</h1>
 <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=%23C8BE25&size=25&center=true&vCenter=true&width=600&height=100&lines=Aspiring+Software+Developer;Information+Systems+Student;Active+Learner;Always+learning+new+things"></a>
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=%23C8BE25&size=25&center=true&vCenter=true&width=600&height=100&lines=Always+learning+new+things"></a>
 </p>
 
 <div align="center">
   <img width="49.7%" height="100%" src="https://github-readme-streak-stats.herokuapp.com/?user=joeyt4n&theme=github_dark&hide_border=true" alt="GitHub Streak">
-
-  <img width="49.7%" height="100%" src="https://github-readme-stats-joeyt4n.vercel.app//api/?username=joeyt4n&count_private=true&theme=github_dark&show_icons=true&hide_border=true" alt="GitHub Statistics">
 </div>
 
 ## <picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 20px></picture> About Me
 - :school: [Bachelor of Science (Information Systems)](https://scis.smu.edu.sg/bsc-information-systems) at [Singapore Management University](https://www.smu.edu.sg/)
-- 🌱 I’m currently learning `Machine Learning`, `Internet of Things`, `Object Oriented Programming` and `Software Project Management`
-- :thinking: I’m currently working on `AI-related Projects` and many more!
+- 🌱 Fresh Graduate looking to go into: `AI` and `Project Management`
+- :thinking: I’m currently working on my personal knowledge base
 - :nerd_face: Always learning new things!
 - :computer: Feel free to connect with me via [LinkedIn](https://www.linkedin.com/in/joey-tan-zuyi/)!
 
@@ -120,17 +118,6 @@
     <a href="https://www.jetbrains.com/pycharm/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/PyCharm-000000.svg?style=for-the-badge&logo=PyCharm&logoColor=white" alt="pycharm"/> </a>
     <!-- Netlify -->
     <a href="https://www.netlify.com/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/Netlify-00C7B7.svg?style=for-the-badge&logo=Netlify&logoColor=white" alt="netlify"/> </a>
-    
-
-<h3 align="left">📚 My Noteworthy Projects</h3>
-
-<a href="https://github.com/joeyt4n/is460-g2">
-  <img align="center" src="https://github-readme-stats-beta-brown.vercel.app/api/pin/?username=soonann&repo=noise-solulu&theme=github_dark" />
-</a>
-<a href="https://github.com/joeyt4n/IS212-G6T6">
-  <img align="center" src="https://github-readme-stats-beta-brown.vercel.app/api/pin/?username=joeyt4n&repo=IS212-G6T6&theme=github_dark" />
-</a>
-
 
 <!-- ## 🐍 A Snake Eating my Contributions Graph -->
 <br>
